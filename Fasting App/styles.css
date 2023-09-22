@@ -44,8 +44,8 @@ form {
 
 button {
     height: 5vh;
-    max-width: 450px;
-    width: 30vw;
+    <<<<<<< HEAD max-width: 450px;
+    =======>>>>>>>6788bc14189db65458a0216fd3b00db45b8fbe46 width: 30vw;
     display: flex;
     text-align: center;
     justify-content: center;
